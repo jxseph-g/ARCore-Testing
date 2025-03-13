@@ -1,21 +1,25 @@
 # 2024-sa36-arcore || DEMO APP: CoreShow
 
-CoreShow ist eine Demo-App welche drei Konzepte von ARCore und SceneView auffasst:
-- Platzieren von virtuellen Elementen
-- Augmented images
-- Object Detection mit ML Kit 
+CoreShow is a demo app that encompasses three concepts of ARCore and SceneView:
 
-Die Seminararbeit beschreibt und geht auf die Konzepte von ARCore ein, und vergleicht sie mit SceneView, einer Erweiterung von ARCore. 
+-   Placing virtual elements
+-   Augmented images
+-   Object Detection with ML Kit
 
+The seminar paper describes and explores the concepts of ARCore and compares them with SceneView, an extension of ARCore.
 
-## Setup 
-Am besten wird die App vor dem Lesen kurz getestet, um bereits visuell zu sehen worum es in der Arbeit gehen wird. Die App benötigt jedoch keine spezifische Installation. ARCore wird automatisch installiert beim Starten der App, und im Android Studio muss auch nichts eingestellt werden. Das habe ich auf einem zweiten Rechner sowie zweiten Phone getestet, bitte falls etwas unklar ist direkt melden!
+## Setup
 
-## Hinweis! 
-Leider ist es nicht möglich, eine AR-App auf dem Emulator zu testen. Es wird zwingend ein physisches Android Phone benötigt. 
+It's best to briefly test the app before reading to visually understand what the paper will discuss. The app doesn't require specific installation. ARCore installs automatically when the app starts, and no settings are needed in Android Studio. 
 
-# Demo Bilder und videos
-Da die App nur auf Android funktioniert, sind im Ordner Demo-Media verschiedene Bilder und Videos zu der App vorhanden.
+## Note!
 
-## Links und Referenzen 
-Sind jeweils in der Fusszeile der Seminararbeit verlinkt. 
+Unfortunately, it's not possible to test an AR app on the emulator. A physical Android phone is necessary.
+
+# Demo Images and Videos
+
+Since the app only works on Android, the Demo-Media folder contains various images and videos of the app.
+
+## Links and References
+
+Links and references are located in the footer of the seminar paper.
