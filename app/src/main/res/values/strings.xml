@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoreShow</string>
+    <string name="point_your_phone_down">move your phone around slowly</string>
+    <string name="tap_anywhere_to_add_model">tap the pen button, to change model, or try out the buttons below</string>
+</resources>
